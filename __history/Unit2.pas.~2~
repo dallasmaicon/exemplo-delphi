@@ -1,0 +1,14 @@
+unit Unit2;
+
+interface
+
+type
+  TPessoa = class
+    private
+    public
+      Nome: string;
+  end;
+
+implementation
+
+end.
