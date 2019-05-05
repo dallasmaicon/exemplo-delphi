@@ -95,11 +95,13 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="Unit1.pas">
+        <DCCReference Include="ViewPrincipal.pas">
             <Form>Form1</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="Unit2.pas"/>
+        <DCCReference Include="ClassPessoa.pas"/>
+        <DCCReference Include="ClassSql.pas"/>
+        <DCCReference Include="classCliente.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
