@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/05 01:44:52.000.349,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/05 01:55:50.000.417,=C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2019/05/05 01:56:11.000.151,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Delphi\exemplo-em-cursos-delphi\Unit2.pas</Transaction>
+    <Transaction>2019/05/05 01:56:13.000.293,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas</Transaction>
+    <Transaction>2019/05/05 01:56:13.000.293,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Delphi\exemplo-em-cursos-delphi\Unit1.dfm</Transaction>
+    <Transaction>2019/05/05 01:56:23.000.368,C:\Users\Pedro\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Delphi\exemplo-em-cursos-delphi\ExemplosCodigos.dproj</Transaction>
+    <Transaction>2019/05/05 02:38:57.000.986,C:\Delphi\exemplo-em-cursos-delphi\Unit2.pas=C:\Delphi\exemplo-em-cursos-delphi\ClassPessoa.pas</Transaction>
+    <Transaction>2019/05/05 02:39:30.000.248,C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas=C:\Delphi\exemplo-em-cursos-delphi\ViewPrincipal.pas</Transaction>
+    <Transaction>2019/05/05 02:39:30.000.248,C:\Delphi\exemplo-em-cursos-delphi\Unit1.dfm=C:\Delphi\exemplo-em-cursos-delphi\ViewPrincipal.dfm</Transaction>
+    <Transaction>2019/05/05 03:14:46.000.707,=C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas</Transaction>
+    <Transaction>2019/05/05 03:14:57.000.143,C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas=C:\Delphi\exemplo-em-cursos-delphi\ClassSql.pas</Transaction>
+    <Transaction>2019/05/05 03:23:26.000.644,=C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas</Transaction>
+    <Transaction>2019/05/05 03:23:36.000.958,C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas=C:\Delphi\exemplo-em-cursos-delphi\classCliente.pas</Transaction>
+    <Transaction>2019/05/07 07:04:01.839,=C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas</Transaction>
+    <Transaction>2019/05/07 07:04:14.877,C:\Delphi\exemplo-em-cursos-delphi\ClassEndereco.pas=C:\Delphi\exemplo-em-cursos-delphi\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
